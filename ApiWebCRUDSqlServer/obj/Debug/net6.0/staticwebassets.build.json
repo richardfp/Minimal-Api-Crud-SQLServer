@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4hotT9vzO2KCamcsdGcw1R2BT51gZRLj9GlhCD0ZYCQ=",
+  "Source": "ApiWebCRUDSqlServer",
+  "BasePath": "_content/ApiWebCRUDSqlServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
